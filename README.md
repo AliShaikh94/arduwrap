@@ -4,7 +4,11 @@ A wrapper around your Arduino so you can use any sensors available to the Arduin
 
 Program your Arduino
 -------
-https://create.arduino.cc/editor/mplacona/db600d03-e19c-444e-891b-88f3569ba7e4/preview
+DHT22: 
+https://create.arduino.cc/editor/mplacona/db600d03-e19c-444e-891b-88f3569ba7e4/preview . 
+
+Adafruit Motor Shield V1 / L293D: 
+https://create.arduino.cc/editor/CheesusCrust/d8cb14af-04d7-404d-8c6c-1b151e034078/preview
 
 Download
 --------
